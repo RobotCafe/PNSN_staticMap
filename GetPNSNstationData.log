@@ -1,0 +1,274 @@
+2023-11-09 14:39:23,273 - root - INFO - Program started
+2023-11-09 14:39:23,376 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - network socket opened
+2023-11-09 14:39:23,451 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - connected to: 'SeedLink v3.1 (2018.078 RingServer) :: SLPROTO:3.1 CAP EXTREPLY NSWILDCARD BATCH WS:13'
+2023-11-09 14:39:23,606 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:23,829 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:24,053 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:24,276 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:24,499 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:24,722 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:24,944 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:25,175 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:25,405 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:25,904 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:26,129 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:26,429 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:26,661 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:26,890 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:27,117 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:27,341 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:27,565 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:27,788 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:28,010 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:28,234 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:28,456 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:28,681 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:28,904 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:29,131 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:29,357 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:29,586 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:29,813 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:30,036 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:30,258 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:30,482 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:30,708 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:30,937 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:31,160 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:31,382 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:31,607 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:31,828 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:32,050 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:32,273 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:32,497 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:32,795 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:33,094 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:33,315 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:33,540 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:33,763 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:33,988 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:34,215 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:34,437 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:34,660 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:34,882 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:35,106 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:35,332 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:35,556 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:35,778 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:36,004 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:36,229 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:36,451 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:36,674 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:36,896 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:37,119 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:37,342 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:37,639 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:37,864 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:38,087 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:38,315 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:38,540 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:38,764 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:38,986 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:39,209 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:39,430 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:39,654 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:39,881 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:40,102 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:40,328 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:40,551 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:40,774 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:40,999 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:41,224 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:41,446 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:41,671 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:41,894 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:42,118 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:42,345 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:42,570 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:42,792 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:43,018 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:43,240 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:43,464 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:43,693 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:43,921 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:44,147 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:44,372 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:44,601 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:44,827 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:45,054 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:45,280 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:45,504 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:45,727 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:45,949 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:46,173 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:46,397 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:46,620 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:46,842 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:47,064 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:47,286 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:47,510 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:47,734 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:47,955 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:48,178 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:48,403 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:48,628 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:48,853 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:49,078 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:49,302 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:49,526 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:49,748 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:49,971 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:50,195 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:50,421 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:50,646 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:50,870 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:51,092 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:51,315 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:51,538 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:51,762 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:51,986 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:52,208 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:52,434 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:52,657 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:52,883 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:53,112 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:53,335 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:53,571 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:53,794 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:54,023 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:54,249 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:54,481 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:54,705 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:54,932 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:55,154 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:55,380 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:55,612 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:55,833 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:56,065 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:56,293 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:56,516 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:56,740 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:56,963 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:57,189 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:57,416 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:57,638 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:57,866 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:58,088 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:58,316 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:58,538 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:58,762 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:58,990 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:59,212 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:59,436 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:59,660 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:39:59,884 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:00,106 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:00,328 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:00,552 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:00,781 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:01,006 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:01,230 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:01,453 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:01,676 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:01,898 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:02,121 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:02,344 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:02,566 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:02,803 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:03,026 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:03,257 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:03,480 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:03,702 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:03,926 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:04,148 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:04,370 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:04,597 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:04,822 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:05,046 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:05,268 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - requesting next available data
+2023-11-09 14:40:05,345 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - 184 station(s) accepted
+2023-11-09 14:40:05,923 - root - INFO - Received packet for station CVSD, total count: 1
+2023-11-09 14:40:05,923 - root - INFO - Received packet for station CVSD, total count: 2
+2023-11-09 14:40:05,924 - root - INFO - Received packet for station CVSD, total count: 3
+2023-11-09 14:40:05,925 - root - INFO - Received packet for station CVSD, total count: 4
+2023-11-09 14:40:05,926 - root - INFO - Received packet for station EAGLE, total count: 1
+2023-11-09 14:40:05,996 - root - INFO - Received packet for station EDSN, total count: 1
+2023-11-09 14:40:05,997 - root - INFO - Received packet for station EDSN, total count: 2
+2023-11-09 14:40:05,998 - root - INFO - Received packet for station ELGR, total count: 1
+2023-11-09 14:40:05,998 - root - INFO - Received packet for station ELGR, total count: 2
+2023-11-09 14:40:05,999 - root - INFO - Received packet for station ELGR, total count: 3
+2023-11-09 14:40:06,000 - root - INFO - Received packet for station ELGR, total count: 4
+2023-11-09 14:40:06,000 - root - INFO - Received packet for station ELGR, total count: 5
+2023-11-09 14:40:06,001 - root - INFO - Received packet for station ELK, total count: 1
+2023-11-09 14:40:06,002 - root - INFO - Received packet for station ET4, total count: 1
+2023-11-09 14:40:06,002 - root - INFO - Received packet for station FALCO, total count: 1
+2023-11-09 14:40:06,003 - root - INFO - Received packet for station FISH2, total count: 1
+2023-11-09 14:40:06,004 - root - INFO - Received packet for station FL2, total count: 1
+2023-11-09 14:40:06,004 - root - INFO - Received packet for station FLRE, total count: 1
+2023-11-09 14:40:06,005 - root - INFO - Received packet for station FLRE, total count: 2
+2023-11-09 14:40:06,006 - root - INFO - Received packet for station FLRE, total count: 3
+2023-11-09 14:40:06,007 - root - INFO - Received packet for station FLRE, total count: 4
+2023-11-09 14:40:06,044 - root - INFO - Received packet for station FMW, total count: 1
+2023-11-09 14:40:06,045 - root - INFO - Received packet for station FMW, total count: 2
+2023-11-09 14:40:06,046 - root - INFO - Received packet for station FMW, total count: 3
+2023-11-09 14:40:06,047 - root - INFO - Received packet for station FORK, total count: 1
+2023-11-09 14:40:06,048 - root - INFO - Received packet for station GMW, total count: 1
+2023-11-09 14:40:06,049 - root - INFO - Received packet for station GMW, total count: 2
+2023-11-09 14:40:06,071 - root - INFO - Received packet for station GRIZZ, total count: 1
+2023-11-09 14:40:06,072 - root - INFO - Received packet for station GRIZZ, total count: 2
+2023-11-09 14:40:06,073 - root - INFO - Received packet for station GUEM, total count: 1
+2023-11-09 14:40:06,074 - root - INFO - Received packet for station HAWK, total count: 1
+2023-11-09 14:40:06,075 - root - INFO - Received packet for station HAWK, total count: 2
+2023-11-09 14:40:06,076 - root - INFO - Received packet for station HAWK, total count: 3
+2023-11-09 14:40:06,077 - root - INFO - Received packet for station HAWK, total count: 4
+2023-11-09 14:40:06,078 - root - INFO - Received packet for station HBO, total count: 1
+2023-11-09 14:40:06,425 - root - INFO - Received packet for station HICC, total count: 1
+2023-11-09 14:40:06,427 - root - INFO - Received packet for station HICC, total count: 2
+2023-11-09 14:40:06,428 - root - INFO - Received packet for station HOMA, total count: 1
+2023-11-09 14:40:06,429 - root - INFO - Received packet for station HOMA, total count: 2
+2023-11-09 14:40:06,431 - root - INFO - Received packet for station HOOD, total count: 1
+2023-11-09 14:40:06,432 - root - INFO - Received packet for station HSR, total count: 1
+2023-11-09 14:40:06,433 - root - INFO - Received packet for station HURR, total count: 1
+2023-11-09 14:40:06,500 - root - INFO - Received packet for station HURR, total count: 2
+2023-11-09 14:40:06,502 - root - INFO - Received packet for station JCW, total count: 1
+2023-11-09 14:40:06,503 - root - INFO - Received packet for station JCW, total count: 2
+2023-11-09 14:40:06,504 - root - INFO - Received packet for station KDK, total count: 1
+2023-11-09 14:40:06,505 - root - INFO - Received packet for station KNGST, total count: 1
+2023-11-09 14:40:06,507 - root - INFO - Received packet for station LACKA, total count: 1
+2023-11-09 14:40:06,508 - root - INFO - Received packet for station LAWT, total count: 1
+2023-11-09 14:40:06,510 - root - INFO - Received packet for station LAWT, total count: 2
+2023-11-09 14:40:06,511 - root - INFO - Received packet for station LCCR, total count: 1
+2023-11-09 14:40:06,513 - root - INFO - Received packet for station LEOT, total count: 1
+2023-11-09 14:40:06,515 - root - INFO - Received packet for station LEOT, total count: 2
+2023-11-09 14:40:06,516 - root - INFO - Received packet for station LEOT, total count: 3
+2023-11-09 14:40:06,518 - root - INFO - Received packet for station LEOT, total count: 4
+2023-11-09 14:40:06,520 - root - INFO - Received packet for station LION, total count: 1
+2023-11-09 14:40:06,521 - root - INFO - Received packet for station LION, total count: 2
+2023-11-09 14:40:06,523 - root - INFO - Received packet for station LION, total count: 3
+2023-11-09 14:40:06,525 - root - INFO - Received packet for station LON, total count: 1
+2023-11-09 14:40:06,928 - root - INFO - Received packet for station LOPEZ, total count: 1
+2023-11-09 14:40:06,930 - root - INFO - Received packet for station LUMI, total count: 1
+2023-11-09 14:40:06,932 - root - INFO - Received packet for station LUMI, total count: 2
+2023-11-09 14:40:06,934 - root - INFO - Received packet for station LWCK, total count: 1
+2023-11-09 14:40:06,936 - root - INFO - Received packet for station LWCK, total count: 2
+2023-11-09 14:40:06,938 - root - INFO - Received packet for station LYND, total count: 1
+2023-11-09 14:40:06,940 - root - INFO - Received packet for station LYND, total count: 2
+2023-11-09 14:40:07,002 - root - INFO - Received packet for station MACH, total count: 1
+2023-11-09 14:40:07,004 - root - INFO - Received packet for station MACH, total count: 2
+2023-11-09 14:40:07,006 - root - INFO - Received packet for station MORO, total count: 1
+2023-11-09 14:40:07,008 - root - INFO - Received packet for station MULN, total count: 1
+2023-11-09 14:40:07,012 - root - INFO - Received packet for station NATEM, total count: 1
+2023-11-09 14:40:07,016 - root - INFO - Received packet for station NFES, total count: 1
+2023-11-09 14:40:07,020 - root - INFO - Received packet for station NFES, total count: 2
+2023-11-09 14:40:07,025 - root - INFO - Received packet for station NFES, total count: 3
+2023-11-09 14:40:07,029 - root - INFO - Received packet for station NFES, total count: 4
+2023-11-09 14:40:07,033 - root - INFO - Received packet for station NFES, total count: 5
+2023-11-09 14:40:07,035 - root - INFO - Received packet for station NTAT, total count: 1
+2023-11-09 14:40:07,037 - root - INFO - Received packet for station NTAT, total count: 2
+2023-11-09 14:40:07,040 - root - INFO - Received packet for station NTAT, total count: 3
+2023-11-09 14:40:08,151 - root - ERROR - An error occurred: The new array must be fully contained in the old array. No extrapolation can be performed.
+2023-11-09 14:40:08,152 - root - INFO - Received packet for station OCEN, total count: 1
+2023-11-09 14:40:08,154 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - closing SeedLinkConnection()
+2023-11-09 14:40:08,154 -  obspy.clients.seedlink [rtserve.iris.washington.edu:18000] - INFO - network socket closed
+2023-11-09 14:40:08,154 - root - INFO - run method closed
+2023-11-09 14:40:08,156 - root - INFO - Stations that have not sent a packet: UW_BABE, UW_WFHS, UW_COOM, UW_LMONT, UW_WAHL, UW_TEHA, UW_RADR, UW_DOSE, UW_OWLS, UW_BOIS, UW_WISH, UO_LOST, UW_CTR, UW_BRUIN, UW_TAHO, UW_BBO, UW_TUCA, UW_FISH, UW_UGAP5, UW_BOGA, UW_COOS, UW_SACA, UW_CBS, UW_WEDR, UW_SCC2, UW_OCP, UW_SUMAS, UW_SMSH, UW_GNW, UW_SHW, UW_OTR, UW_STW, UW_GRNT, UO_JAZZ, UO_PETE, UW_BILS, UW_PURDY, UW_YACH, UW_PELL, UW_YELM, UW_RNWY, UW_STOR, UO_BCAT, UW_TDH, UW_OSD, UW_PNLK2, UO_KNAP, UW_UGAP6, UW_NEERS, UW_LCW2, UW_PSNS, UO_JESE, UO_OTLW, CC_NORM, UW_BRAV, UW_LBRT, UW_BAND, UW_CONW, UW_OSQM, UW_CUGR, UW_UGSD, UW_ORCA, UW_SVOH, UO_LEWL, UW_OD2, UW_UGP4, UW_SDRO, UW_RER, UW_BRGL, UW_JUN, UW_CUBS, UW_RVRV, UW_TILL, UW_PRIN, UW_OLQN, UW_SMOO, UW_UGAP1, UW_EVCC, UW_WWHS, UW_YA2, UW_RPW, UW_SJIF, UW_BLDG, UW_WTRV, UW_TDL, UW_DART, UW_TUMW, UW_BHCR, CC_TIMB, UO_WOOD, UW_COUGS, UW_SKYK, UO_PERY, UW_CHZZ, UW_PCOL, UW_HDW, UW_SLDQ, UW_SP2, UW_CPARK, UO_RDEO, UO_COQI, UW_RVC, UO_HBUG, UW_TAPPS, UW_RPW2, UW_ALLI, UW_SHUK, UW_TREE, UW_ONAB, UW_ROBC, UW_REED, UW_VLL, UW_JEDS, UW_OOW2, UW_HANS, UW_RED2, UO_COBRA, UW_BRO, UW_RCM, UW_EDM, UW_RCS, CC_SEP, UO_RAID, UW_CABL, UW_VFP, UW_BROK, UW_BOOK, UW_SLF, UW_ERIE, UW_RVSD, UO_DAYS, UW_MNWA, UW_BABR, UW_TOLE, UW_STAR, UW_CHIMA, UW_BHAM, UW_CORE, UW_CNNB, UW_MKAH, CC_WIFE, UW_RSLG
+2023-11-09 14:40:08,158 - root - ERROR - Error creating map: create_map() missing 2 required positional arguments: 'heatmap_series' and 'time_index'
